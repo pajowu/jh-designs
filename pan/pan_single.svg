@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="100%"
+   height="100%"
+   viewBox="0 0 11 11"
+   id="jh_logo"
+   shape-rendering="crispEdges"
+   version="1.1"
+   sodipodi:docname="jh_rainbow.svg"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06">
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs12">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath7104">
+      <g
+         id="g7120"
+         transform="matrix(72.727273,0,0,54.545464,-388.9375,-303.34386)">
+        <g
+           id="g7112">
+          <rect
+             id="rect7106"
+             x="2"
+             y="6"
+             width="1"
+             height="1" />
+          <rect
+             id="rect7108"
+             x="8"
+             y="6"
+             width="1"
+             height="1" />
+          <polygon
+             id="polygon7110"
+             points="5,7 4,7 4,9 7,9 7,7 6,7 6,8 5,8 " />
+        </g>
+        <g
+           id="g7118">
+          <polygon
+             id="polygon7114"
+             points="2,4 2,5 0,5 0,1 1,1 1,0 3,0 3,1 4,1 4,2 7,2 7,1 8,1 8,0 10,0 10,1 11,1 11,5 9,5 9,4 " />
+          <polygon
+             id="polygon7116"
+             points="9,9 8,9 8,10 3,10 3,9 2,9 2,8 1,8 1,5 0,5 0,9 1,9 1,10 2,10 2,11 9,11 9,10 10,10 10,9 11,9 11,5 10,5 10,8 9,8 " />
+        </g>
+      </g>
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1916"
+     inkscape:window-height="1033"
+     id="namedview10"
+     showgrid="false"
+     inkscape:zoom="32"
+     inkscape:cx="11.674527"
+     inkscape:cy="6.3014522"
+     inkscape:window-x="0"
+     inkscape:window-y="22"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="jh_logo" />
+  <g
+     id="g7102"
+     transform="matrix(0.01375,0,0,0.01833333,5.3478906,5.5613031)"
+     clip-path="url(#clipPath7104)">
+    <rect
+       id="rect4292"
+       height="600"
+       width="800"
+       style="fill:#21b1ff"
+       x="-388.9375"
+       y="-303.34375" />
+    <rect
+       id="rect4294"
+       height="381.81824"
+       width="800"
+       style="fill:#ffd800;stroke-width:0.97700852"
+       x="-388.9375"
+       y="-303.34384" />
+    <rect
+       id="rect4296"
+       height="218.18185"
+       width="800"
+       style="fill:#ff218c;stroke-width:1.04446602"
+       x="-388.9375"
+       y="-303.34387" />
+  </g>
+</svg>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="100%"
+   height="100%"
+   viewBox="0 0 11 11"
+   id="jh_logo"
+   shape-rendering="crispEdges"
+   version="1.1"
+   sodipodi:docname="jh_rainbow.svg"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06">
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs12">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath832">
+      <g
+         id="g848"
+         transform="scale(72.727273,36.363636)">
+        <g
+           id="g840">
+          <rect
+             height="1"
+             width="1"
+             y="6"
+             x="2"
+             id="rect834" />
+          <rect
+             height="1"
+             width="1"
+             y="6"
+             x="8"
+             id="rect836" />
+          <polygon
+             points="7,9 7,7 6,7 6,8 5,8 5,7 4,7 4,9 "
+             id="polygon838" />
+        </g>
+        <g
+           id="g846">
+          <polygon
+             points="0,1 1,1 1,0 3,0 3,1 4,1 4,2 7,2 7,1 8,1 8,0 10,0 10,1 11,1 11,5 9,5 9,4 2,4 2,5 0,5 "
+             id="polygon842" />
+          <polygon
+             points="3,10 3,9 2,9 2,8 1,8 1,5 0,5 0,9 1,9 1,10 2,10 2,11 9,11 9,10 10,10 10,9 11,9 11,5 10,5 10,8 9,8 9,9 8,9 8,10 "
+             id="polygon844" />
+        </g>
+      </g>
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#000000"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1916"
+     inkscape:window-height="1033"
+     id="namedview10"
+     showgrid="false"
+     inkscape:zoom="64"
+     inkscape:cx="6.6730111"
+     inkscape:cy="5.2698464"
+     inkscape:window-x="0"
+     inkscape:window-y="22"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="jh_logo" />
+  <g
+     id="g1496"
+     transform="scale(0.01375,0.0275)"
+     clip-path="url(#clipPath832)">
+    <rect
+       style="fill:#5bcefa"
+       y="0"
+       x="0"
+       id="blue"
+       height="400"
+       width="800" />
+    <rect
+       style="fill:#f5a9b8;stroke-width:0.95346254"
+       x="0"
+       id="pink"
+       y="90.909103"
+       height="218.18182"
+       width="800" />
+    <rect
+       style="fill:#ffffff;stroke-width:0.9534626"
+       x="0"
+       id="white"
+       y="163.63637"
+       height="72.727272"
+       width="800" />
+  </g>
+</svg>

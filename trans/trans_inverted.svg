@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="20"
+   height="20"
+   viewBox="0 0 5.2916665 5.2916668"
+   version="1.1"
+   id="svg4196"
+   sodipodi:docname="rainbow_circle_60.svg"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06">
+  <defs
+     id="defs4190">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath10180-3">
+      <circle
+         style="fill:#370000;fill-opacity:1;stroke:none;stroke-width:6.03756857;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         id="circle10182-6"
+         cx="2.6458333"
+         cy="294.35416"
+         r="2.6458333" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath11071">
+      <g
+         id="g11087"
+         transform="matrix(0,-95.482805,154.56285,0,-44784.704,309.38153)"
+         style="fill:#ffffff">
+        <g
+           transform="matrix(0.26458333,0,0,0.26458333,-0.72856929,290.8091)"
+           id="g11079"
+           style="fill:#ffffff">
+          <rect
+             height="1"
+             width="1"
+             y="6"
+             x="2"
+             id="rect11073"
+             style="fill:#ffffff" />
+          <rect
+             height="1"
+             width="1"
+             y="6"
+             x="8"
+             id="rect11075"
+             style="fill:#ffffff" />
+          <polygon
+             points="6,7 6,8 5,8 5,7 4,7 4,9 7,9 7,7 "
+             id="polygon11077"
+             style="fill:#ffffff" />
+        </g>
+        <g
+           transform="matrix(0.26458333,0,0,0.26458333,-0.72856929,290.8091)"
+           id="g11085"
+           style="fill:#ffffff">
+          <polygon
+             points="8,0 10,0 10,1 11,1 11,5 9,5 9,4 2,4 2,5 0,5 0,1 1,1 1,0 3,0 3,1 4,1 4,2 7,2 7,1 8,1 "
+             id="polygon11081"
+             style="fill:#ffffff" />
+          <polygon
+             points="2,10 2,11 9,11 9,10 10,10 10,9 11,9 11,5 10,5 10,8 9,8 9,9 8,9 8,10 3,10 3,9 2,9 2,8 1,8 1,5 0,5 0,9 1,9 1,10 "
+             id="polygon11083"
+             style="fill:#ffffff" />
+        </g>
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath11442">
+      <g
+         id="g11458"
+         transform="matrix(146.83511,90.708282,-158.74029,98.063342,47072.888,-28863.731)">
+        <g
+           transform="matrix(0.26458333,0,0,0.26458333,1.8333333e-8,294.08958)"
+           id="g11450">
+          <rect
+             height="1"
+             width="1"
+             y="6"
+             x="2"
+             id="rect11444" />
+          <rect
+             height="1"
+             width="1"
+             y="6"
+             x="8"
+             id="rect11446" />
+          <polygon
+             points="4,9 7,9 7,7 6,7 6,8 5,8 5,7 4,7 "
+             id="polygon11448" />
+        </g>
+        <g
+           transform="matrix(0.26458333,0,0,0.26458333,1.8333333e-8,294.08958)"
+           id="g11456">
+          <polygon
+             points="10,0 10,1 11,1 11,5 9,5 9,4 2,4 2,5 0,5 0,1 1,1 1,0 3,0 3,1 4,1 4,2 7,2 7,1 8,1 8,0 "
+             id="polygon11452" />
+          <polygon
+             points="10,9 11,9 11,5 10,5 10,8 9,8 9,9 8,9 8,10 3,10 3,9 2,9 2,8 1,8 1,5 0,5 0,9 1,9 1,10 2,10 2,11 9,11 9,10 10,10 "
+             id="polygon11454" />
+        </g>
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath11460">
+      <g
+         id="g11476"
+         transform="matrix(0,164.92479,-266.97209,0,79233.095,1.0390262e-4)">
+        <g
+           transform="matrix(0.26458333,0,0,0.26458333,1.8333333e-8,294.08958)"
+           id="g11468">
+          <rect
+             height="1"
+             width="1"
+             y="6"
+             x="2"
+             id="rect11462" />
+          <rect
+             height="1"
+             width="1"
+             y="6"
+             x="8"
+             id="rect11464" />
+          <polygon
+             points="4,9 7,9 7,7 6,7 6,8 5,8 5,7 4,7 "
+             id="polygon11466" />
+        </g>
+        <g
+           transform="matrix(0.26458333,0,0,0.26458333,1.8333333e-8,294.08958)"
+           id="g11474">
+          <polygon
+             points="10,0 10,1 11,1 11,5 9,5 9,4 2,4 2,5 0,5 0,1 1,1 1,0 3,0 3,1 4,1 4,2 7,2 7,1 8,1 8,0 "
+             id="polygon11470" />
+          <polygon
+             points="10,9 11,9 11,5 10,5 10,8 9,8 9,9 8,9 8,10 3,10 3,9 2,9 2,8 1,8 1,5 0,5 0,9 1,9 1,10 2,10 2,11 9,11 9,10 10,10 "
+             id="polygon11472" />
+        </g>
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3801">
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#f10000;fill-opacity:1;stroke:none;stroke-width:229.65039062;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         d="m 682.8438,58.577941 a 400.00053,200.00049 0 0 0 -565.68599,-9.4e-5 400.00053,200.00049 0 0 0 1.9e-4,282.843313 400.00053,200.00049 0 0 0 565.68599,9e-5 400.00053,200.00049 0 0 0 -1.9e-4,-282.843309 z m -253.06975,-7.443431 59.54591,29.772986 -29.77371,14.88687 29.77297,14.886504 -29.77258,14.8863 89.31886,44.65948 29.77258,-14.8863 29.77295,14.88649 29.77371,-14.88687 59.54591,29.77299 -29.7737,14.88687 29.77295,14.8865 -119.09145,59.54579 -119.09145,59.54579 -29.77295,-14.88649 -29.7737,14.88686 -29.77296,-14.88649 -29.7726,14.88631 -208.41069,-104.20546 29.7726,-14.88632 -29.77295,-14.88649 29.7737,-14.88687 -29.77297,-14.8865 119.09145,-59.54579 119.09145,-59.545789 29.77297,14.886499 z m -89.31962,74.43285 -29.77258,14.88631 -29.77295,-14.8865 -89.31888,44.65949 29.77295,14.88649 -29.77257,14.88631 29.77295,14.88649 -29.7737,14.88687 148.86478,74.43247 29.7737,-14.88686 29.77296,14.88649 29.77257,-14.8863 29.77296,14.88649 89.31888,-44.65949 -29.77296,-14.88649 29.77258,-14.88631 z m -59.54516,29.77261 29.77295,14.88649 -29.7737,14.88687 -29.77295,-14.88649 z m 178.63773,89.31897 29.77296,14.88649 -29.7737,14.88687 -29.77296,-14.88649 z m -148.86551,-44.65911 29.77295,14.88649 -29.7726,14.88632 29.77295,14.88649 29.7726,-14.88631 29.77296,14.88649 -59.54517,29.77262 -89.31886,-44.65948 z"
+         id="path3803" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#000000"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="11.313709"
+     inkscape:cx="30.897906"
+     inkscape:cy="11.900702"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1916"
+     inkscape:window-height="1033"
+     inkscape:window-x="0"
+     inkscape:window-y="22"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata4193">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-291.70832)">
+    <g
+       id="g1496"
+       transform="matrix(0.00444335,-0.00444335,0.00888669,0.00888669,-0.90884467,294.35416)"
+       clip-path="url(#clipPath3801)">
+      <path
+         style="fill:#5bcefa"
+         d="M 0,0 H 800 V 400 H 0 Z"
+         id="blue"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#f5a9b8"
+         d="M 0,80 H 800 V 320 H 0 Z"
+         id="pink"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#ffffff"
+         d="m 0,160 h 800 v 80 H 0 Z"
+         id="white"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g10306"
+       transform="matrix(0,-0.00374571,0.00606337,0,-0.6289765,295.46751)"
+       clip-path="none" />
+  </g>
+</svg>
